@@ -25,7 +25,7 @@ if(isset($_COOKIE['remembered_username'])) {
         <input type="password" id="password" name="password" style="width: 300px; height: 30px;"><br><br>
 
         <label for="remember_me" style="font-size: 16px; display: block;">
-            <input type="checkbox" id="remember_me" name="remember_me"> Remember me
+            <input type="checkbox" id="remember_me" name="remember_me"> Remember me bbb
         </label><br><br>
 
         <input type="submit" name="submit" value="Login" style="width: 150px; height: 40px; font-size: 18px;">
