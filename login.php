@@ -1,5 +1,5 @@
 <?php
-echo"Testing";
+// echo"Testing";
 session_start();
 $remembered_username = "";
 
