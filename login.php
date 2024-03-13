@@ -1,4 +1,5 @@
 <?php
+echo"Testing";
 session_start();
 $remembered_username = "";
 
